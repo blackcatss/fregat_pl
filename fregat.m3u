@@ -1,0 +1,227 @@
+#EXTM3U 
+#EXTINF:-1,1+1
+http://streamer-hls.fregat.net:8080/hls/1plus1.m3u8
+#EXTINF:-1,112 Украина
+http://streamer-hls.fregat.net:8080/hls/112ua.m3u8
+#EXTINF:-1,112 Украина HD
+http://streamer-hls.fregat.net:8080/hls/112uahd.m3u8
+#EXTINF:-1,2+2
+http://streamer-hls.fregat.net:8080/hls/2plus2.m3u8
+#EXTINF:-1,24 Док
+http://streamer-hls.fregat.net:8080/hls/24doc.m3u8
+#EXTINF:-1,24 Новости
+http://streamer-hls.fregat.net:8080/hls/24news.m3u8
+#EXTINF:-1,34 канал
+http://streamer-hls.fregat.net:8080/hls/34canal.m3u8
+#EXTINF:-1,5 Канал
+http://streamer-hls.fregat.net:8080/hls/5kanal.m3u8
+#EXTINF:-1,A media 2
+http://streamer-hls.fregat.net:8080/hls/amedia2.m3u8
+#EXTINF:-1,Animal Planet
+http://streamer-hls.fregat.net:8080/hls/animal.m3u8
+#EXTINF:-1,BBC World News
+http://streamer-hls.fregat.net:8080/hls/bbc.m3u8
+#EXTINF:-1,Bloomberg TV
+http://streamer-hls.fregat.net:8080/hls/bloomberg.m3u8
+#EXTINF:-1,Cartoon Network
+http://streamer-hls.fregat.net:8080/hls/cartoon.m3u8
+#EXTINF:-1,Deutsche Welle
+http://streamer-hls.fregat.net:8080/hls/dwe.m3u8
+#EXTINF:-1,Discovery Channel
+http://streamer-hls.fregat.net:8080/hls/discovery.m3u8
+#EXTINF:-1,E! Entertaiment
+http://streamer-hls.fregat.net:8080/hls/e.m3u8
+#EXTINF:-1,Enter Фильм
+http://streamer-hls.fregat.net:8080/hls/enterfilm.m3u8
+#EXTINF:-1,EspressoTV
+http://streamer-hls.fregat.net:8080/hls/espresso.m3u8
+#EXTINF:-1,EuroNews
+http://streamer-hls.fregat.net:8080/hls/euronews.m3u8
+#EXTINF:-1,EuroSport
+http://streamer-hls.fregat.net:8080/hls/espi.m3u8
+#EXTINF:-1,EuroSport 2
+http://streamer-hls.fregat.net:8080/hls/espi2.m3u8
+#EXTINF:-1,EXtreme sport
+http://streamer-hls.fregat.net:8080/hls/extsport.m3u8
+#EXTINF:-1,Fashion TV
+http://streamer-hls.fregat.net:8080/hls/fashiontv.m3u8
+#EXTINF:-1,FashionTV HD
+http://streamer-hls.fregat.net:8080/hls/ftvhd.m3u8
+#EXTINF:-1,Fox
+http://streamer-hls.fregat.net:8080/hls/fox.m3u8
+#EXTINF:-1,Fox Life
+http://streamer-hls.fregat.net:8080/hls/foxlife.m3u8
+#EXTINF:-1,France 24
+http://streamer-hls.fregat.net:8080/hls/france24.m3u8
+#EXTINF:-1,Gulli
+http://streamer-hls.fregat.net:8080/hls/gulli.m3u8
+#EXTINF:-1,ICTV
+http://streamer-hls.fregat.net:8080/hls/ictv.m3u8
+#EXTINF:-1,JimJam
+http://streamer-hls.fregat.net:8080/hls/jimjam.m3u8
+#EXTINF:-1,MAXXI ТВ
+http://streamer-hls.fregat.net:8080/hls/maxxitv.m3u8
+#EXTINF:-1,MCM TOP
+http://streamer-hls.fregat.net:8080/hls/mcmtop.m3u8
+#EXTINF:-1,MGM
+http://streamer-hls.fregat.net:8080/hls/mgm.m3u8
+#EXTINF:-1,MTV Dance
+http://streamer-hls.fregat.net:8080/hls/mtvdance.m3u8
+#EXTINF:-1,MTV Rocks
+http://streamer-hls.fregat.net:8080/hls/mtvrocks.m3u8
+#EXTINF:-1,MusicBox Украина
+http://streamer-hls.fregat.net:8080/hls/musicbox.m3u8
+#EXTINF:-1,Nat Geo WILD
+http://streamer-hls.fregat.net:8080/hls/natgeowild.m3u8
+#EXTINF:-1,National Geographic
+http://streamer-hls.fregat.net:8080/hls/natgeo.m3u8
+#EXTINF:-1,Nickelodeon
+http://streamer-hls.fregat.net:8080/hls/nickelodeon.m3u8
+#EXTINF:-1,OTV Music
+http://streamer-hls.fregat.net:8080/hls/otv.m3u8
+#EXTINF:-1,QTV
+http://streamer-hls.fregat.net:8080/hls/qtv.m3u8
+#EXTINF:-1,Russian Travel Guide
+http://streamer-hls.fregat.net:8080/hls/rtg.m3u8
+#EXTINF:-1,STV
+http://streamer-hls.fregat.net:8080/hls/stv.m3u8
+#EXTINF:-1,TBi
+http://streamer-hls.fregat.net:8080/hls/tvi.m3u8
+#EXTINF:-1,TiJi
+http://streamer-hls.fregat.net:8080/hls/tiji.m3u8
+#EXTINF:-1,TLC
+http://streamer-hls.fregat.net:8080/hls/tlc.m3u8
+#EXTINF:-1,Travel Channel
+http://streamer-hls.fregat.net:8080/hls/travel.m3u8
+#EXTINF:-1,TV 5 Monde
+http://streamer-hls.fregat.net:8080/hls/tv5monde.m3u8
+#EXTINF:-1,TV1000
+http://streamer-hls.fregat.net:8080/hls/tv1000.m3u8
+#EXTINF:-1,TV1000 Action
+http://streamer-hls.fregat.net:8080/hls/tv1000action.m3u8
+#EXTINF:-1,TV1000 Русское Кино
+http://streamer-hls.fregat.net:8080/hls/tv1000ruskino.m3u8
+#EXTINF:-1,Ukrainian Business Resource
+http://streamer-hls.fregat.net:8080/hls/ubr.m3u8
+#EXTINF:-1,Universal Channel
+http://streamer-hls.fregat.net:8080/hls/universal.m3u8
+#EXTINF:-1,VH1 Classic
+http://streamer-hls.fregat.net:8080/hls/vh1classic.m3u8
+#EXTINF:-1,VH1 Europe
+http://streamer-hls.fregat.net:8080/hls/vh1europe.m3u8
+#EXTINF:-1,Viasat Explorer
+http://streamer-hls.fregat.net:8080/hls/viasatexplorer.m3u8
+#EXTINF:-1,Viasat History
+http://streamer-hls.fregat.net:8080/hls/viasathistory.m3u8
+#EXTINF:-1,Viasat Sport
+http://streamer-hls.fregat.net:8080/hls/viasatsport.m3u8
+#EXTINF:-1,Zoom
+http://streamer-hls.fregat.net:8080/hls/zoom.m3u8
+#EXTINF:-1,Авто Плюс
+http://streamer-hls.fregat.net:8080/hls/autoplus.m3u8
+#EXTINF:-1,Баскетбол
+http://streamer-hls.fregat.net:8080/hls/basketball.m3u8
+#EXTINF:-1,Боец ТВ
+http://streamer-hls.fregat.net:8080/hls/boets.m3u8
+#EXTINF:-1,Гамма
+http://streamer-hls.fregat.net:8080/hls/gamma.m3u8
+#EXTINF:-1,Детский Мир
+http://streamer-hls.fregat.net:8080/hls/detskiymir.m3u8
+#EXTINF:-1,Дождь
+http://streamer-hls.fregat.net:8080/hls/rain.m3u8
+#EXTINF:-1,Драйв
+http://streamer-hls.fregat.net:8080/hls/drive.m3u8
+#EXTINF:-1,ЕвроКино
+http://streamer-hls.fregat.net:8080/hls/eurokino.m3u8
+#EXTINF:-1,Иллюзион +
+http://streamer-hls.fregat.net:8080/hls/illusionplus.m3u8
+#EXTINF:-1,Интер
+http://streamer-hls.fregat.net:8080/hls/inter.m3u8
+#EXTINF:-1,К1
+http://streamer-hls.fregat.net:8080/hls/k1.m3u8
+#EXTINF:-1,К2
+http://streamer-hls.fregat.net:8080/hls/k2.m3u8
+#EXTINF:-1,Карусель
+http://streamer-hls.fregat.net:8080/hls/karusel.m3u8
+#EXTINF:-1,Кино Плюс
+http://streamer-hls.fregat.net:8080/hls/kinoplus.m3u8
+#EXTINF:-1,Киноклуб
+http://streamer-hls.fregat.net:8080/hls/kinoclub.m3u8
+#EXTINF:-1,Киносоюз
+http://streamer-hls.fregat.net:8080/hls/kinosoyuz.m3u8
+#EXTINF:-1,Кинохит
+http://streamer-hls.fregat.net:8080/hls/kinohit.m3u8
+#EXTINF:-1,Комедия ТВ
+http://streamer-hls.fregat.net:8080/hls/comedytv.m3u8
+#EXTINF:-1,Кто есть кто
+http://streamer-hls.fregat.net:8080/hls/whoiswho.m3u8
+#EXTINF:-1,Любимое кино
+http://streamer-hls.fregat.net:8080/hls/lokino.m3u8
+#EXTINF:-1,М1
+http://streamer-hls.fregat.net:8080/hls/m1.m3u8
+#EXTINF:-1,М2 Эстрада
+http://streamer-hls.fregat.net:8080/hls/m2.m3u8
+#EXTINF:-1,Малятко
+http://streamer-hls.fregat.net:8080/hls/malyatko.m3u8
+#EXTINF:-1,МНОГО ТВ
+http://streamer-hls.fregat.net:8080/hls/multiserial.m3u8
+#EXTINF:-1,Моя планета
+http://streamer-hls.fregat.net:8080/hls/myplanet.m3u8
+#EXTINF:-1,Настоящее страшное ТВ
+http://streamer-hls.fregat.net:8080/hls/nst.m3u8
+#EXTINF:-1,Наука 2.0
+http://streamer-hls.fregat.net:8080/hls/nauka20.m3u8
+#EXTINF:-1,Наше кино
+http://streamer-hls.fregat.net:8080/hls/nkino.m3u8
+#EXTINF:-1,Наше новое кино
+http://streamer-hls.fregat.net:8080/hls/onewkino.m3u8
+#EXTINF:-1,Новый
+http://streamer-hls.fregat.net:8080/hls/novy.m3u8
+#EXTINF:-1,НТН
+http://streamer-hls.fregat.net:8080/hls/ntn.m3u8
+#EXTINF:-1,Охота и Рыбалка
+http://streamer-hls.fregat.net:8080/hls/huntfish.m3u8
+#EXTINF:-1,Парк развлечений
+http://streamer-hls.fregat.net:8080/hls/enterpark.m3u8
+#EXTINF:-1,Первый автомобильный
+http://streamer-hls.fregat.net:8080/hls/1auto.m3u8
+#EXTINF:-1,Первый деловой
+http://streamer-hls.fregat.net:8080/hls/1delovoy.m3u8
+#EXTINF:-1,Первый Национальный
+http://streamer-hls.fregat.net:8080/hls/1nacionalny.m3u8
+#EXTINF:-1,Пиксель
+http://streamer-hls.fregat.net:8080/hls/piksel.m3u8
+#EXTINF:-1,Премьера
+http://streamer-hls.fregat.net:8080/hls/premiere.m3u8
+#EXTINF:-1,Рада
+http://streamer-hls.fregat.net:8080/hls/rada.m3u8
+#EXTINF:-1,Русская ночь
+http://streamer-hls.fregat.net:8080/hls/rusnight.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://streamer-hls.fregat.net:8080/hls/rusillusion.m3u8
+#EXTINF:-1,Совершенно секретно
+http://streamer-hls.fregat.net:8080/hls/sovsekret.m3u8
+#EXTINF:-1,Спорт 1
+http://streamer-hls.fregat.net:8080/hls/sport1.m3u8
+#EXTINF:-1,СТБ
+http://streamer-hls.fregat.net:8080/hls/stb.m3u8
+#EXTINF:-1,СТС Internatioanl
+http://streamer-hls.fregat.net:8080/hls/stsint.m3u8
+#EXTINF:-1,Теннис
+http://streamer-hls.fregat.net:8080/hls/tennis.m3u8
+#EXTINF:-1,ТЕТ
+http://streamer-hls.fregat.net:8080/hls/tet.m3u8
+#EXTINF:-1,Тонис
+http://streamer-hls.fregat.net:8080/hls/tonis.m3u8
+#EXTINF:-1,ТРК Украина
+http://streamer-hls.fregat.net:8080/hls/ukraina.m3u8
+#EXTINF:-1,Трофей
+http://streamer-hls.fregat.net:8080/hls/trofey.m3u8
+#EXTINF:-1,Усадьба
+http://streamer-hls.fregat.net:8080/hls/usadba.m3u8
+#EXTINF:-1,Футбол1
+http://streamer-hls.fregat.net:8080/hls/football1.m3u8
+#EXTINF:-1,Футбол2
+http://streamer-hls.fregat.net:8080/hls/football2.m3u8
+#EXTINF:-1,Шансон ТВ
+http://streamer-hls.fregat.net:8080/hls/shanson.m3u8
